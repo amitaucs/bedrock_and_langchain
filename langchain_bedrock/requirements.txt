@@ -1,0 +1,5 @@
+langchain==1.2.13
+langchain-core==1.2.20
+langchain-aws==1.4.1
+boto3==1.42.73
+streamlit==1.55.0
